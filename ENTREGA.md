@@ -122,4 +122,4 @@ Una mejora que harías si volvieras a hacerlo.
 
 1. Revisando de alto nivel puedo ver que los archivos generados parece que revisan el estado actual del proyecto.
 2. Nos ayudan con proponer un cambio antes de modificar el proyecto, lo cual es bueno para no generar regresiones.
-3. Tenemos procesos para aplicar las propuestas o incluso omitir cuando ya fue completado o cerrado.
+3. Tenemos procesos para aplicar las propuestas o incluso omitir cuando ya fue completado o cerrado
